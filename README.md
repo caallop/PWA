@@ -4,7 +4,7 @@
 APP PWA para determinar o combustivel mais vantajoso em veiculos flex
 sceenshots 
 
-![](img/screenshot1.png)
+![](https://github.com/caallop/flexv2/blob/main/flexv2/img/screenshot1.png)
 ## autor 
 Guilherme Rosa Lopes
 
